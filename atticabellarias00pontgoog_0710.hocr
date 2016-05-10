@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./atticabellarias00pontgoog_0710.png"; bbox 0 0 598 998; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 141 242 535 338">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 141 242 535 338">
+     <span class='ocr_line' id='line_1_1' title="bbox 141 242 535 288; textangle 90"><span class='ocrx_word' id='word_1_1' title='bbox 141 242 529 288; x_wconf 48' lang='lat' dir='ltr'><strong>zvissssssenaiafflvfflassiffaffff</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 513 245 535 269; x_wconf 51' lang='grc' dir='ltr'><strong><em>ε</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 201 292 501 317; textangle 90"><span class='ocrx_word' id='word_1_3' title='bbox 201 294 262 317; x_wconf 58' lang='grc' dir='ltr'><strong>-Ἂψὶη</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 266 292 363 316; x_wconf 54' lang='lat' dir='ltr'>&amp;zen-un..</span> <span class='ocrx_word' id='word_1_5' title='bbox 367 293 385 310; x_wconf 70' lang='grc' dir='ltr'><strong><em>ΐ</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 388 298 444 310; x_wconf 73' lang='grc' dir='ltr'><strong>οΕ-η</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 448 297 501 311; x_wconf 65' lang='grc' dir='ltr'><strong>ηιξ-</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 253 317 448 338; textangle 90"><span class='ocrx_word' id='word_1_8' title='bbox 253 317 349 338; x_wconf 56' lang='grc' dir='ltr'>ἔην-β</span> <span class='ocrx_word' id='word_1_9' title='bbox 353 317 448 335; x_wconf 60' lang='grc' dir='ltr'><strong>αξξ-Ευ-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 185 426 507 691">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 185 426 507 691">
+     <span class='ocr_line' id='line_1_4' title="bbox 185 426 507 691; textangle 90"><span class='ocrx_word' id='word_1_10' title='bbox 185 426 507 691; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 473 823 522 854">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 473 823 522 854">
+     <span class='ocr_line' id='line_1_5' title="bbox 473 823 522 854; textangle 90"><span class='ocrx_word' id='word_1_11' title='bbox 473 823 522 854; x_wconf 58' lang='lat'><strong>22.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
